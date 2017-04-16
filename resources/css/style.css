@@ -26,3 +26,12 @@ h2 {
 h3 {
   font-size: 23px;
 }
+
+.text {
+  font-size; 14px;
+}
+
+#nybkgd {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
